@@ -18,6 +18,7 @@ public class Download implements Runnable {
 
     public void run() {
         System.out.println("Downloading " + fileName);
+        System.out.println("ugh");
     }
 
 }
